@@ -1,4 +1,4 @@
-## Hardware & Firmware for emonTx V3.4.x
+## Parte fisica y Logica del V3.4.x
 
 *Low power, wireless, Arduino based energy monitoring node.*
 
