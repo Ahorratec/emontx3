@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/openenergymonitor/emontx3.svg?branch=master)](https://travis-ci.org/openenergymonitor/emontx3)
 
-![Captura.JPG](emontx3-low-cost/Captura.JPG)
+![Captura.JPG](Ahorratec/emontx3-low-cost/Captura.JPG)
 
 
 A Fork of the [OpenEnergyMonitor.org](https://openenergymonitor.org) project
