@@ -9,3 +9,5 @@
 
 ---
 A Fork of the [OpenEnergyMonitor.org](https://openenergymonitor.org) project
+
+30 de Julio de 2017---Carlos Muñoz
